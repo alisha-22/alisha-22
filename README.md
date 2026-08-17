@@ -13,7 +13,7 @@
 
 ### 👋 About
 
-Data Scientist with a B.S. in Computer Science and the **Google Advanced Data Analytics Professional Certificate**. I build end-to-end ML projects — from data cleaning and EDA through predictive modeling and stakeholder-facing reporting — using Python, SQL, and the modern ML stack. Recent work spans **classification** (employee attrition, tip prediction), **regression** (fare prediction), and **inferential statistics** (A/B testing on payment behavior).
+Data Scientist with a B.S. in Computer Science and the **Google Advanced Data Analytics Professional Certificate**. I build end-to-end ML projects from data cleaning and EDA through predictive modeling and stakeholder-facing reporting using Python, SQL, and the modern ML stack. Recent work spans **classification** (employee attrition, tip prediction), **regression** (fare prediction), and **inferential statistics** (A/B testing on payment behavior).
 
 🌱 Currently deepening my ML foundations through DeepLearning.AI's *Machine Learning Specialization* (Stanford, via Coursera).
 
@@ -53,14 +53,6 @@ Data Scientist with a B.S. in Computer Science and the **Google Advanced Data An
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alisha-22&show_icons=true&theme=default&hide_border=true&count_private=false" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisha-22&layout=compact&hide_border=true" width="40%" />
-</div>
-
----
 
 ### 📫 Let's Connect
 
