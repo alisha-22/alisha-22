@@ -3,8 +3,8 @@
 # Hi, I'm Alisha Khan 👋
 ### Data Scientist | Predictive Modeling & Statistical Analysis
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-2ea44f?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-url-here.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle-here)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-2ea44f?style=flat&logo=vercel&logoColor=white)](https://alisha-22.github.io/Alisha-s-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in//alisharaufkhan/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alisharaufkhan@gmail.com)
 
 </div>
